@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Menu chính Khách hàng -->
+    <menuitem id="menu_clinic_customers_root" 
+              name="Khách hàng" 
+              sequence="15"
+              action="contacts.action_contacts"
+              web_icon="clinic_crm,static/description/icon.png"/>
+</odoo>
